@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Swapnali-cs02
-- 👀 I’m interested in coding and testing 
-- 🌱 I’m currently learning computer science 
+- 👋 Hi, I’m @Swapnali Khopatkar
+- 👀 I’m interested in coding and Data Handling 
+- 🌱 I’m currently learning data science and analytics with AI
 - 💞️ I’m looking to collaborate on software development  
-- 📫 How to reach me ...
+- 📫 How to reach me? - https://www.linkedin.com/in/swapnali-khopatkar-593516250
 
 <!---
 Swapnali-cs02/Swapnali-cs02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
